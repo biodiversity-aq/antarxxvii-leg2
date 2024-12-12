@@ -1,0 +1,923 @@
+eventID	measurementType	measurementValue	measurementUnit	measurementAccuracy	measurementMethod
+GANT20-01	Number of replicates	2			
+GANT20-01	Surface sediments	1			
+GANT20-01	sediment description	Dark brown fine mud			
+GANT20-01	potential pollution	No HCl			
+GANT20-02	Number of replicates	3			
+GANT20-02	Surface sediments	1			
+GANT20-02	sediment description	Dark brown fine mud			
+GANT20-02	potential pollution	No HCl			
+GANT20-03	Number of replicates	3			
+GANT20-03	Surface sediments	1			
+GANT20-03	sediment description	Fine mud green-yellow			
+GANT20-03	potential pollution	No HCl			
+GANT20-04	Number of replicates	3			
+GANT20-04	Surface sediments	1			
+GANT20-04	sediment description	Extremely fine mud, green-yellow, light sulphur smell			
+GANT20-04	potential pollution	No HCl, surface sediments disturbed (VV was opened before) and touched by metallic tools from other researchers			
+GANT20-05	Number of replicates	3			
+GANT20-05	Surface sediments	0			
+GANT20-05	sediment description	Rocky			
+GANT20-06	Number of replicates	3			
+GANT20-06	Surface sediments	1			
+GANT20-06	sediment description	Brown-kaki, very fine (clay), small smell of S			
+GANT20-06	potential pollution	No HCl			
+GANT20-07	Number of replicates	3			
+GANT20-07	Surface sediments	1			
+GANT20-07	sediment description	Dark brown, very fine (clay), light smell of S			
+GANT20-07	potential pollution	No HCl, surface sediments disturbed (VV was opened before) 			
+GANT20-08	Number of replicates	3			
+GANT20-08	Surface sediments	1			
+GANT20-08	sediment description	Greenish, fine (clay)			
+GANT20-08	potential pollution	No HCl			
+GANT20-09	Number of replicates	3			
+GANT20-09	Surface sediments	1			
+GANT20-09	sediment description	Brown-greenish, clay			
+GANT20-09	potential pollution	No HCl			
+GANT20-10	Number of replicates	3			
+GANT20-10	Surface sediments	1			
+GANT20-10	sediment description	Brown-yellow, clay			
+GANT20-10	potential pollution	No HCl			
+GANT20-11	Number of replicates	2			
+GANT20-11	Surface sediments	1 (not surface)			
+GANT20-11	sediment description	Brown-greenish, clay			
+GANT20-11	potential pollution	No HCl, sediments not from the surface			
+GANT20-12	Number of replicates	1			
+GANT20-12	Surface sediments	0			
+GANT20-12	sediment description	Brown, fine sand and rocks			
+GANT20-13	Number of replicates	1			
+GANT20-13	Surface sediments	0			
+GANT20-13	sediment description	Brown, sandy			
+GANT20-14	Number of replicates	FAIL			
+GANT20-15	Number of replicates	2			
+GANT20-15	Surface sediments	5			
+GANT20-15	sediment description	Brown-yellow, fine (clay)			
+GANT20-15	potential pollution	No HCl, metal tools from other researchers			
+GANT20-16	Number of replicates	FAIL			
+GANT20-17	Number of replicates	3			
+GANT20-17	Surface sediments	1			
+GANT20-17	sediment description	Brown-yellow, fine (clay)			
+GANT20-17	potential pollution	No HCl			
+GANT20-18	Number of replicates	2			
+GANT20-18	Surface sediments	1			
+GANT20-18	sediment description	Brown, fine clay + gravels			
+GANT20-18	potential pollution	No HCl			
+GANT20-19	Number of replicates	2			
+GANT20-19	Surface sediments	1			
+GANT20-19	sediment description	Light brown-yellow, very fine (clay)			
+GANT20-19	potential pollution	No HCl			
+GANT20-20	Number of replicates	2			
+GANT20-20	Surface sediments	1			
+GANT20-20	sediment description	Light brown-yellow, very fine (clay) + volcanic gravels			
+GANT20-20	potential pollution	No HCl			
+GANT20-21	Number of replicates	2			
+GANT20-21	Surface sediments	1			
+GANT20-21	sediment description	Light brown, fine miwed with gravels			
+GANT20-21	potential pollution	No HCl			
+GANT20-22	Number of replicates	2			
+GANT20-22	Surface sediments	1			
+GANT20-22	sediment description	Light brown, fine mixed with gravels			
+GANT20-22	potential pollution	No HCl			
+GANT20-RD2	Number of replicates	1			
+GANT20-RD2	Surface sediments	1			
+GANT20-RD2	sediment description	Black, fine + volcanic gravels + rocks			
+GANT20-RD2	potential pollution	No Hcl, sediments not from the surface			
+GANT20-23	Number of replicates	2			
+GANT20-23	Surface sediments	1			
+GANT20-23	sediment description	Yellow-brown, fine (clay)			
+GANT20-23	potential pollution	No HCl			
+GANT20-24	Number of replicates	2			
+GANT20-24	Surface sediments	1			
+GANT20-24	sediment description	Yellow-brown, fine (clay) + volcanic gravels			
+GANT20-24	potential pollution	No HCl			
+GANT20-25	Number of replicates	FAIL			
+GANT20-26	Number of replicates	3			
+GANT20-26	Surface sediments	1			
+GANT20-26	sediment description	Yellow-brown, fine (clay) + volcanic gravels			
+GANT20-26	potential pollution	No HCl, other tools from scientists			
+GANT20-27	Number of replicates	3			
+GANT20-27	Surface sediments	1			
+GANT20-27	sediment description	Yellow (fine) and black (volcanic gravels)			
+GANT20-27	potential pollution	No HCl			
+GANT20-28	Number of replicates	2			
+GANT20-28	Surface sediments	1			
+GANT20-28	sediment description	Light brown (fine) + volcanic gravels			
+GANT20-28	potential pollution	No HCl			
+GANT20-29	Number of replicates	2			
+GANT20-29	Surface sediments	0			
+GANT20-29	sediment description	Brown, volcanic gravels, rocks			
+GANT20-30	Number of replicates	3			
+GANT20-30	Surface sediments	1			
+GANT20-30	sediment description	Brown-yellowish, fine + volcanic gravels			
+GANT20-30	potential pollution	No HCl			
+GANT20-RD3	Number of replicates	1			
+GANT20-RD3	Surface sediments	0			
+GANT20-RD3	sediment description	Big rocks			
+GANT20-RD6	Number of replicates	1			
+GANT20-RD6	Surface sediments	1			
+GANT20-RD6	sediment description	Light brown - yellow, fine + debris of volcanic rocks. S smell when opening bottle later.			
+GANT20-RD6	potential pollution	Sediments taken from rocks, not surface!			
+GANT20-RD7	Number of replicates	1			
+GANT20-RD7	Surface sediments	1			
+GANT20-RD7	sediment description	Yellow-brown, elastic, S smell			
+GANT20-RD7	potential pollution	Not surface sediments			
+GANT20-31	Number of replicates	2			
+GANT20-31	Surface sediments	1			
+GANT20-31	sediment description	Grey, brownish, fine 			
+GANT20-31	potential pollution	Metal objects from scientists, small amount of sediments			
+GANT20-RAUSCHERT 1	Number of replicates	1			
+GANT20-RAUSCHERT 1	Surface sediments	0			
+GANT20-RAUSCHERT 1	Time start	15:58:00			
+GANT20-RAUSCHERT 1	Time start dredging	16:44:00			
+GANT20-RAUSCHERT 1	Time stop dredging	16:59:00			
+GANT20-RAUSCHERT 1	Time out of the water	17:32:00			
+GANT20-RAUSCHERT 1	Total dredging time	15 minutes	minutes		
+GANT20-RAUSCHERT 1	Speed of the ship	2nm	nautical miles		
+GANT20-RAUSCHERT 2	Number of replicates	1			
+GANT20-RAUSCHERT 2	Surface sediments	0			
+GANT20-RAUSCHERT 2	Time start	18:58:00			
+GANT20-RAUSCHERT 2	Time start dredging	19:03:00			
+GANT20-RAUSCHERT 2	Time stop dredging	19:20:00			
+GANT20-RAUSCHERT 2	Time out of the water	19:25:00			
+GANT20-RAUSCHERT 2	Total dredging time	17 minutes	minutes		
+GANT20-RAUSCHERT 2	Speed of the ship	2nm	nautical miles		
+GANT20-RAUSCHERT 3	Number of replicates	1			
+GANT20-RAUSCHERT 3	Surface sediments	1			
+GANT20-RAUSCHERT 3	sediment description	Fine, yellow-brown mud			
+GANT20-RAUSCHERT 3	Time start	20:37:00			
+GANT20-RAUSCHERT 3	Time start dredging	20:48:00			
+GANT20-RAUSCHERT 3	Time stop dredging	21:01:00			
+GANT20-RAUSCHERT 3	Time out of the water	21:31:00			
+GANT20-RAUSCHERT 3	Total dredging time	13 minutes	minutes		
+GANT20-RAUSCHERT 3	Speed of the ship	2nm	nautical miles		
+GANT20-01	Concentration of trace element Al (µg/g) in surface sediments	62104	µg/g	combined precision (±1sd) 3568	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-01	Concentration of trace element As (µg/g) in surface sediments	8	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-01	Concentration of trace element Cd (µg/g) in surface sediments	0.28	µg/g	combined precision (±1sd) 0.04	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-01	Concentration of trace elements Co (µg/g) in surface sediments 	19	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-01	Concentration of trace element Cr (µg/g) in surface sediments 	40	µg/g	combined precision (±1sd) 2	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-01	Concentration of trace element Cu (µg/g) in surface sediments	69	µg/g	combined precision (±1sd) 5	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-01	Concentration of trace element Fe (µg/g) in surface sediments 	33378	µg/g	combined precision (±1sd) 1376	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-01	Concentration of trace element Hg (µg/g) in surface sediments 	0.031	µg/g	combined precision (±1sd) 0.004	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-01	Concentration of trace element Mn (µg/g) in surface sediments 	918	µg/g	combined precision (±1sd) 54	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-01	Concentration of trace element Ni (µg/g) in surface sediments 	19	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-01	Concentration of trace element Pb (µg/g) in surface sediments 	9	µg/g	combined precision (±1sd) 0.4	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-01	Concentration of trace element V (µg/g) in surface sediments 	206	µg/g	combined precision (±1sd) 8	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-01	Concentration of trace element Zn (µg/g) in surface sediments 	90	µg/g	combined precision (±1sd) 6	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-02	Concentration of trace element Al (µg/g) in surface sediments	54857	µg/g	combined precision (±1sd) 3152	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-02	Concentration of trace element As (µg/g) in surface sediments	5	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-02	Concentration of trace element Cd (µg/g) in surface sediments	0.16	µg/g	combined precision (±1sd) 0.02	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-02	Concentration of trace elements Co (µg/g) in surface sediments 	10	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-02	Concentration of trace element Cr (µg/g) in surface sediments 	40	µg/g	combined precision (±1sd) 2	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-02	Concentration of trace element Cu (µg/g) in surface sediments	12	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-02	Concentration of trace element Fe (µg/g) in surface sediments 	21328	µg/g	combined precision (±1sd) 879	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-02	Concentration of trace element Hg (µg/g) in surface sediments 	0.039	µg/g	combined precision (±1sd) 0.005	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-02	Concentration of trace element Mn (µg/g) in surface sediments 	523	µg/g	combined precision (±1sd) 30	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-02	Concentration of trace element Ni (µg/g) in surface sediments 	23	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-02	Concentration of trace element Pb (µg/g) in surface sediments 	8	µg/g	combined precision (±1sd) 0.4	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-02	Concentration of trace element V (µg/g) in surface sediments 	118	µg/g	combined precision (±1sd) 5	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-02	Concentration of trace element Zn (µg/g) in surface sediments 	45	µg/g	combined precision (±1sd) 3	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-03	Concentration of trace element Al (µg/g) in surface sediments	53202	µg/g	combined precision (±1sd) 3056	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-03	Concentration of trace element As (µg/g) in surface sediments	6	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-03	Concentration of trace element Cd (µg/g) in surface sediments	0.12	µg/g	combined precision (±1sd) 0.02	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-03	Concentration of trace elements Co (µg/g) in surface sediments 	10	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-03	Concentration of trace element Cr (µg/g) in surface sediments 	36	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-03	Concentration of trace element Cu (µg/g) in surface sediments	11	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-03	Concentration of trace element Fe (µg/g) in surface sediments 	21203	µg/g	combined precision (±1sd) 874	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-03	Concentration of trace element Hg (µg/g) in surface sediments 	0.016	µg/g	combined precision (±1sd) 0.002	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-03	Concentration of trace element Mn (µg/g) in surface sediments 	522	µg/g	combined precision (±1sd) 30	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-03	Concentration of trace element Ni (µg/g) in surface sediments 	20	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-03	Concentration of trace element Pb (µg/g) in surface sediments 	8	µg/g	combined precision (±1sd) 0.4	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-03	Concentration of trace element V (µg/g) in surface sediments 	122	µg/g	combined precision (±1sd) 5	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-03	Concentration of trace element Zn (µg/g) in surface sediments 	43	µg/g	combined precision (±1sd) 3	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-04	Concentration of trace element Al (µg/g) in surface sediments	56986	µg/g	combined precision (±1sd) 3274	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-04	Concentration of trace element As (µg/g) in surface sediments	5	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-04	Concentration of trace element Cd (µg/g) in surface sediments	0.16	µg/g	combined precision (±1sd) 0.02	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-04	Concentration of trace elements Co (µg/g) in surface sediments 	17	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-04	Concentration of trace element Cr (µg/g) in surface sediments 	76	µg/g	combined precision (±1sd) 3	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-04	Concentration of trace element Cu (µg/g) in surface sediments	18	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-04	Concentration of trace element Fe (µg/g) in surface sediments 	26649	µg/g	combined precision (±1sd) 1099	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-04	Concentration of trace element Hg (µg/g) in surface sediments 	0.021	µg/g	combined precision (±1sd) 0.002	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-04	Concentration of trace element Mn (µg/g) in surface sediments 	654	µg/g	combined precision (±1sd) 38	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-04	Concentration of trace element Ni (µg/g) in surface sediments 	42	µg/g	combined precision (±1sd) 3	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-04	Concentration of trace element Pb (µg/g) in surface sediments 	9	µg/g	combined precision (±1sd) 0.4	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-04	Concentration of trace element V (µg/g) in surface sediments 	150	µg/g	combined precision (±1sd) 6	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-04	Concentration of trace element Zn (µg/g) in surface sediments 	64	µg/g	combined precision (±1sd) 4	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-06	Concentration of trace element Al (µg/g) in surface sediments	56606	µg/g	combined precision (±1sd) 3252	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-06	Concentration of trace element As (µg/g) in surface sediments	12	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-06	Concentration of trace element Cd (µg/g) in surface sediments	0.35	µg/g	combined precision (±1sd) 0.06	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-06	Concentration of trace elements Co (µg/g) in surface sediments 	19	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-06	Concentration of trace element Cr (µg/g) in surface sediments 	32	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-06	Concentration of trace element Cu (µg/g) in surface sediments	81	µg/g	combined precision (±1sd) 6	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-06	Concentration of trace element Fe (µg/g) in surface sediments 	35317	µg/g	combined precision (±1sd) 1456	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-06	Concentration of trace element Hg (µg/g) in surface sediments 	0.278	µg/g	combined precision (±1sd) 0.033	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-06	Concentration of trace element Mn (µg/g) in surface sediments 	951	µg/g	combined precision (±1sd) 55	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-06	Concentration of trace element Ni (µg/g) in surface sediments 	15	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-06	Concentration of trace element Pb (µg/g) in surface sediments 	10	µg/g	combined precision (±1sd) 0.5	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-06	Concentration of trace element V (µg/g) in surface sediments 	206	µg/g	combined precision (±1sd) 8	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-06	Concentration of trace element Zn (µg/g) in surface sediments 	89	µg/g	combined precision (±1sd) 6	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-07	Concentration of trace element Al (µg/g) in surface sediments	61973	µg/g	combined precision (±1sd) 3560	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-07	Concentration of trace element As (µg/g) in surface sediments	9	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-07	Concentration of trace element Cd (µg/g) in surface sediments	0.27	µg/g	combined precision (±1sd) 0.04	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-07	Concentration of trace elements Co (µg/g) in surface sediments 	19	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-07	Concentration of trace element Cr (µg/g) in surface sediments 	31	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-07	Concentration of trace element Cu (µg/g) in surface sediments	80	µg/g	combined precision (±1sd) 6	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-07	Concentration of trace element Fe (µg/g) in surface sediments 	32892	µg/g	combined precision (±1sd) 1356	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-07	Concentration of trace element Hg (µg/g) in surface sediments 	0.022	µg/g	combined precision (±1sd) 0.003	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-07	Concentration of trace element Mn (µg/g) in surface sediments 	919	µg/g	combined precision (±1sd) 54	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-07	Concentration of trace element Ni (µg/g) in surface sediments 	15	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-07	Concentration of trace element Pb (µg/g) in surface sediments 	9	µg/g	combined precision (±1sd) 0.4	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-07	Concentration of trace element V (µg/g) in surface sediments 	207	µg/g	combined precision (±1sd) 9	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-07	Concentration of trace element Zn (µg/g) in surface sediments 	84	µg/g	combined precision (±1sd) 6	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-08	Concentration of trace element Al (µg/g) in surface sediments	34214	µg/g	combined precision (±1sd) 1965	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-08	Concentration of trace element As (µg/g) in surface sediments	5	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-08	Concentration of trace element Cd (µg/g) in surface sediments	0.2	µg/g	combined precision (±1sd) 0.03	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-08	Concentration of trace elements Co (µg/g) in surface sediments 	26	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-08	Concentration of trace element Cr (µg/g) in surface sediments 	22	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-08	Concentration of trace element Cu (µg/g) in surface sediments	41	µg/g	combined precision (±1sd) 3	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-08	Concentration of trace element Fe (µg/g) in surface sediments 	39057	µg/g	combined precision (±1sd) 1610	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-08	Concentration of trace element Hg (µg/g) in surface sediments 	0.016	µg/g	combined precision (±1sd) 0.002	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-08	Concentration of trace element Mn (µg/g) in surface sediments 	1234	µg/g	combined precision (±1sd) 72	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-08	Concentration of trace element Ni (µg/g) in surface sediments 	15	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-08	Concentration of trace element Pb (µg/g) in surface sediments 	8	µg/g	combined precision (±1sd) 0.4	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-08	Concentration of trace element V (µg/g) in surface sediments 	258	µg/g	combined precision (±1sd) 11	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-08	Concentration of trace element Zn (µg/g) in surface sediments 	90	µg/g	combined precision (±1sd) 6	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-09	Concentration of trace element Al (µg/g) in surface sediments	51373	µg/g	combined precision (±1sd) 2951	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-09	Concentration of trace element As (µg/g) in surface sediments	8	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-09	Concentration of trace element Cd (µg/g) in surface sediments	0.27	µg/g	combined precision (±1sd) 0.04	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-09	Concentration of trace elements Co (µg/g) in surface sediments 	29	µg/g	combined precision (±1sd) 2	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-09	Concentration of trace element Cr (µg/g) in surface sediments 	36	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-09	Concentration of trace element Cu (µg/g) in surface sediments	51	µg/g	combined precision (±1sd) 4	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-09	Concentration of trace element Fe (µg/g) in surface sediments 	48372	µg/g	combined precision (±1sd) 1994	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-09	Concentration of trace element Hg (µg/g) in surface sediments 	0.035	µg/g	combined precision (±1sd) 0.004	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-09	Concentration of trace element Mn (µg/g) in surface sediments 	2118	µg/g	combined precision (±1sd) 123	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-09	Concentration of trace element Ni (µg/g) in surface sediments 	21	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-09	Concentration of trace element Pb (µg/g) in surface sediments 	10	µg/g	combined precision (±1sd) 0.5	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-09	Concentration of trace element V (µg/g) in surface sediments 	299	µg/g	combined precision (±1sd) 12	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-09	Concentration of trace element Zn (µg/g) in surface sediments 	115	µg/g	combined precision (±1sd) 8	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-10	Concentration of trace element Al (µg/g) in surface sediments	50701	µg/g	combined precision (±1sd) 2913	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-10	Concentration of trace element As (µg/g) in surface sediments	11	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-10	Concentration of trace element Cd (µg/g) in surface sediments	0.42	µg/g	combined precision (±1sd) 0.06	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-10	Concentration of trace elements Co (µg/g) in surface sediments 	20	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-10	Concentration of trace element Cr (µg/g) in surface sediments 	25	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-10	Concentration of trace element Cu (µg/g) in surface sediments	78	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-10	Concentration of trace element Fe (µg/g) in surface sediments 	35459	µg/g	combined precision (±1sd) 1462	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-10	Concentration of trace element Hg (µg/g) in surface sediments 	0.037	µg/g	combined precision (±1sd) 0.004	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-10	Concentration of trace element Mn (µg/g) in surface sediments 	879	µg/g	combined precision (±1sd) 51	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-10	Concentration of trace element Ni (µg/g) in surface sediments 	14	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-10	Concentration of trace element Pb (µg/g) in surface sediments 	10	µg/g	combined precision (±1sd) 0.5	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-10	Concentration of trace element V (µg/g) in surface sediments 	217	µg/g	combined precision (±1sd) 9	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-10	Concentration of trace element Zn (µg/g) in surface sediments 	89	µg/g	combined precision (±1sd) 6	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-11	Concentration of trace element Al (µg/g) in surface sediments	59822	µg/g	combined precision (±1sd) 3437	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-11	Concentration of trace element As (µg/g) in surface sediments	9	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-11	Concentration of trace element Cd (µg/g) in surface sediments	0.21	µg/g	combined precision (±1sd) 0.03	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-11	Concentration of trace elements Co (µg/g) in surface sediments 	17	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-11	Concentration of trace element Cr (µg/g) in surface sediments 	17	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-11	Concentration of trace element Cu (µg/g) in surface sediments	81	µg/g	combined precision (±1sd) 6	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-11	Concentration of trace element Fe (µg/g) in surface sediments 	31006	µg/g	combined precision (±1sd) 1278	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-11	Concentration of trace element Hg (µg/g) in surface sediments 	0.014	µg/g	combined precision (±1sd) 0.002	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-11	Concentration of trace element Mn (µg/g) in surface sediments 	903	µg/g	combined precision (±1sd) 53	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-11	Concentration of trace element Ni (µg/g) in surface sediments 	9	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-11	Concentration of trace element Pb (µg/g) in surface sediments 	7	µg/g	combined precision (±1sd) 0.3	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-11	Concentration of trace element V (µg/g) in surface sediments 	195	µg/g	combined precision (±1sd) 8	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-11	Concentration of trace element Zn (µg/g) in surface sediments 	74	µg/g	combined precision (±1sd) 5	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-15	Concentration of trace element Al (µg/g) in surface sediments	46583	µg/g	combined precision (±1sd) 2676	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-15	Concentration of trace element As (µg/g) in surface sediments	3	µg/g	combined precision (±1sd) 0.4	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-15	Concentration of trace element Cd (µg/g) in surface sediments	0.2	µg/g	combined precision (±1sd) 0.03	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-15	Concentration of trace elements Co (µg/g) in surface sediments 	20	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-15	Concentration of trace element Cr (µg/g) in surface sediments 	58	µg/g	combined precision (±1sd) 2	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-15	Concentration of trace element Cu (µg/g) in surface sediments	35	µg/g	combined precision (±1sd) 2	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-15	Concentration of trace element Fe (µg/g) in surface sediments 	33369	µg/g	combined precision (±1sd) 1376	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-15	Concentration of trace element Hg (µg/g) in surface sediments 	0.035	µg/g	combined precision (±1sd) 0.004	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-15	Concentration of trace element Mn (µg/g) in surface sediments 	1004	µg/g	combined precision (±1sd) 59	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-15	Concentration of trace element Ni (µg/g) in surface sediments 	25	µg/g	combined precision (±1sd) 2	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-15	Concentration of trace element Pb (µg/g) in surface sediments 	6	µg/g	combined precision (±1sd) 0.3	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-15	Concentration of trace element V (µg/g) in surface sediments 	203	µg/g	combined precision (±1sd) 8	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-15	Concentration of trace element Zn (µg/g) in surface sediments 	84	µg/g	combined precision (±1sd) 6	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-17	Concentration of trace element Al (µg/g) in surface sediments	45730	µg/g	combined precision (±1sd) 2627	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-17	Concentration of trace element As (µg/g) in surface sediments	4	µg/g	combined precision (±1sd) 0.5	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-17	Concentration of trace element Cd (µg/g) in surface sediments	0.22	µg/g	combined precision (±1sd) 0.03	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-17	Concentration of trace elements Co (µg/g) in surface sediments 	18	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-17	Concentration of trace element Cr (µg/g) in surface sediments 	61	µg/g	combined precision (±1sd) 3	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-17	Concentration of trace element Cu (µg/g) in surface sediments	30	µg/g	combined precision (±1sd) 2	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-17	Concentration of trace element Fe (µg/g) in surface sediments 	32782	µg/g	combined precision (±1sd) 1352	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-17	Concentration of trace element Hg (µg/g) in surface sediments 	0.029	µg/g	combined precision (±1sd) 0.003	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-17	Concentration of trace element Mn (µg/g) in surface sediments 	1000	µg/g	combined precision (±1sd) 58	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-17	Concentration of trace element Ni (µg/g) in surface sediments 	24	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-17	Concentration of trace element Pb (µg/g) in surface sediments 	6	µg/g	combined precision (±1sd) 0.3	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-17	Concentration of trace element V (µg/g) in surface sediments 	198	µg/g	combined precision (±1sd) 8	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-17	Concentration of trace element Zn (µg/g) in surface sediments 	77	µg/g	combined precision (±1sd) 5	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-18	Concentration of trace element Al (µg/g) in surface sediments	31279	µg/g	combined precision (±1sd) 1797	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-18	Concentration of trace element As (µg/g) in surface sediments	5	µg/g	combined precision (±1sd) 0.6	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-18	Concentration of trace element Cd (µg/g) in surface sediments	0.19	µg/g	combined precision (±1sd) 0.03	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-18	Concentration of trace elements Co (µg/g) in surface sediments 	29	µg/g	combined precision (±1sd) 2	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-18	Concentration of trace element Cr (µg/g) in surface sediments 	59	µg/g	combined precision (±1sd) 2	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-18	Concentration of trace element Cu (µg/g) in surface sediments	39	µg/g	combined precision (±1sd) 3	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-18	Concentration of trace element Fe (µg/g) in surface sediments 	36393	µg/g	combined precision (±1sd) 1501	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-18	Concentration of trace element Hg (µg/g) in surface sediments 	0.019	µg/g	combined precision (±1sd) 0.002	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-18	Concentration of trace element Mn (µg/g) in surface sediments 	1273	µg/g	combined precision (±1sd) 74	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-18	Concentration of trace element Ni (µg/g) in surface sediments 	28	µg/g	combined precision (±1sd) 2	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-18	Concentration of trace element Pb (µg/g) in surface sediments 	6	µg/g	combined precision (±1sd) 0.3	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-18	Concentration of trace element V (µg/g) in surface sediments 	242	µg/g	combined precision (±1sd) 10	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-18	Concentration of trace element Zn (µg/g) in surface sediments 	80	µg/g	combined precision (±1sd) 5	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-19	Concentration of trace element Al (µg/g) in surface sediments	47083	µg/g	combined precision (±1sd) 2705	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-19	Concentration of trace element As (µg/g) in surface sediments	4	µg/g	combined precision (±1sd) 0.5	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-19	Concentration of trace element Cd (µg/g) in surface sediments	0.15	µg/g	combined precision (±1sd) 0.02	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-19	Concentration of trace elements Co (µg/g) in surface sediments 	20	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-19	Concentration of trace element Cr (µg/g) in surface sediments 	62	µg/g	combined precision (±1sd) 3	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-19	Concentration of trace element Cu (µg/g) in surface sediments	37	µg/g	combined precision (±1sd) 3	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-19	Concentration of trace element Fe (µg/g) in surface sediments 	34156	µg/g	combined precision (±1sd) 1408	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-19	Concentration of trace element Hg (µg/g) in surface sediments 	0.04	µg/g	combined precision (±1sd) 0.005	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-19	Concentration of trace element Mn (µg/g) in surface sediments 	1089	µg/g	combined precision (±1sd) 63	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-19	Concentration of trace element Ni (µg/g) in surface sediments 	26	µg/g	combined precision (±1sd) 2	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-19	Concentration of trace element Pb (µg/g) in surface sediments 	7	µg/g	combined precision (±1sd) 0.3	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-19	Concentration of trace element V (µg/g) in surface sediments 	195	µg/g	combined precision (±1sd) 8	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-19	Concentration of trace element Zn (µg/g) in surface sediments 	90	µg/g	combined precision (±1sd) 6	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-20	Concentration of trace element Al (µg/g) in surface sediments	32555	µg/g	combined precision (±1sd) 1870	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-20	Concentration of trace element As (µg/g) in surface sediments	3	µg/g	combined precision (±1sd) 0.4	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-20	Concentration of trace element Cd (µg/g) in surface sediments	0.17	µg/g	combined precision (±1sd) 0.03	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-20	Concentration of trace elements Co (µg/g) in surface sediments 	22	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-20	Concentration of trace element Cr (µg/g) in surface sediments 	44	µg/g	combined precision (±1sd) 2	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-20	Concentration of trace element Cu (µg/g) in surface sediments	37	µg/g	combined precision (±1sd) 3	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-20	Concentration of trace element Fe (µg/g) in surface sediments 	34180	µg/g	combined precision (±1sd) 1409	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-20	Concentration of trace element Hg (µg/g) in surface sediments 	0.021	µg/g	combined precision (±1sd) 0.002	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-20	Concentration of trace element Mn (µg/g) in surface sediments 	1238	µg/g	combined precision (±1sd) 72	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-20	Concentration of trace element Ni (µg/g) in surface sediments 	21	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-20	Concentration of trace element Pb (µg/g) in surface sediments 	7	µg/g	combined precision (±1sd) 0.3	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-20	Concentration of trace element V (µg/g) in surface sediments 	226	µg/g	combined precision (±1sd) 9	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-20	Concentration of trace element Zn (µg/g) in surface sediments 	87	µg/g	combined precision (±1sd) 6	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-21	Concentration of trace element Al (µg/g) in surface sediments	36473	µg/g	combined precision (±1sd) 2095	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-21	Concentration of trace element As (µg/g) in surface sediments	5	µg/g	combined precision (±1sd) 0.6	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-21	Concentration of trace element Cd (µg/g) in surface sediments	0.17	µg/g	combined precision (±1sd) 0.03	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-21	Concentration of trace elements Co (µg/g) in surface sediments 	27	µg/g	combined precision (±1sd) 2	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-21	Concentration of trace element Cr (µg/g) in surface sediments 	77	µg/g	combined precision (±1sd) 3	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-21	Concentration of trace element Cu (µg/g) in surface sediments	40	µg/g	combined precision (±1sd) 3	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-21	Concentration of trace element Fe (µg/g) in surface sediments 	33877	µg/g	combined precision (±1sd) 1397	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-21	Concentration of trace element Hg (µg/g) in surface sediments 	0.017	µg/g	combined precision (±1sd) 0.002	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-21	Concentration of trace element Mn (µg/g) in surface sediments 	1046	µg/g	combined precision (±1sd) 61	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-21	Concentration of trace element Ni (µg/g) in surface sediments 	49	µg/g	combined precision (±1sd) 3	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-21	Concentration of trace element Pb (µg/g) in surface sediments 	6	µg/g	combined precision (±1sd) 0.3	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-21	Concentration of trace element V (µg/g) in surface sediments 	210	µg/g	combined precision (±1sd) 9	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-21	Concentration of trace element Zn (µg/g) in surface sediments 	82	µg/g	combined precision (±1sd) 5	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-22	Concentration of trace element Al (µg/g) in surface sediments	34785	µg/g	combined precision (±1sd) 1998	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-22	Concentration of trace element As (µg/g) in surface sediments	17	µg/g	combined precision (±1sd) 2	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-22	Concentration of trace element Cd (µg/g) in surface sediments	0.22	µg/g	combined precision (±1sd) 0.03	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-22	Concentration of trace elements Co (µg/g) in surface sediments 	25	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-22	Concentration of trace element Cr (µg/g) in surface sediments 	34	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-22	Concentration of trace element Cu (µg/g) in surface sediments	38	µg/g	combined precision (±1sd) 3	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-22	Concentration of trace element Fe (µg/g) in surface sediments 	37886	µg/g	combined precision (±1sd) 1562	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-22	Concentration of trace element Hg (µg/g) in surface sediments 	0.02	µg/g	combined precision (±1sd) 0.002	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-22	Concentration of trace element Mn (µg/g) in surface sediments 	1106	µg/g	combined precision (±1sd) 64	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-22	Concentration of trace element Ni (µg/g) in surface sediments 	16	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-22	Concentration of trace element Pb (µg/g) in surface sediments 	5	µg/g	combined precision (±1sd) 0.2	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-22	Concentration of trace element V (µg/g) in surface sediments 	238	µg/g	combined precision (±1sd) 10	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-22	Concentration of trace element Zn (µg/g) in surface sediments 	80	µg/g	combined precision (±1sd) 5	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-23	Concentration of trace element Al (µg/g) in surface sediments	48348	µg/g	combined precision (±1sd) 2777	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-23	Concentration of trace element As (µg/g) in surface sediments	6	µg/g	combined precision (±1sd) 0.7	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-23	Concentration of trace element Cd (µg/g) in surface sediments	0.28	µg/g	combined precision (±1sd) 0.04	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-23	Concentration of trace elements Co (µg/g) in surface sediments 	14	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-23	Concentration of trace element Cr (µg/g) in surface sediments 	44	µg/g	combined precision (±1sd) 2	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-23	Concentration of trace element Cu (µg/g) in surface sediments	40	µg/g	combined precision (±1sd) 3	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-23	Concentration of trace element Fe (µg/g) in surface sediments 	29088	µg/g	combined precision (±1sd) 1199	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-23	Concentration of trace element Hg (µg/g) in surface sediments 	0.059	µg/g	combined precision (±1sd) 0.007	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-23	Concentration of trace element Mn (µg/g) in surface sediments 	652	µg/g	combined precision (±1sd) 38	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-23	Concentration of trace element Ni (µg/g) in surface sediments 	20	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-23	Concentration of trace element Pb (µg/g) in surface sediments 	11	µg/g	combined precision (±1sd) 0.5	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-23	Concentration of trace element V (µg/g) in surface sediments 	157	µg/g	combined precision (±1sd) 6	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-23	Concentration of trace element Zn (µg/g) in surface sediments 	97	µg/g	combined precision (±1sd) 6	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-24	Concentration of trace element Al (µg/g) in surface sediments	41873	µg/g	combined precision (±1sd) 2405	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-24	Concentration of trace element As (µg/g) in surface sediments	4	µg/g	combined precision (±1sd) 0.5	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-24	Concentration of trace element Cd (µg/g) in surface sediments	0.18	µg/g	combined precision (±1sd) 0.03	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-24	Concentration of trace elements Co (µg/g) in surface sediments 	17	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-24	Concentration of trace element Cr (µg/g) in surface sediments 	37	µg/g	combined precision (±1sd) 2	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-24	Concentration of trace element Cu (µg/g) in surface sediments	40	µg/g	combined precision (±1sd) 3	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-24	Concentration of trace element Fe (µg/g) in surface sediments 	31321	µg/g	combined precision (±1sd) 1291	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-24	Concentration of trace element Hg (µg/g) in surface sediments 	0.034	µg/g	combined precision (±1sd) 0.004	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-24	Concentration of trace element Mn (µg/g) in surface sediments 	796	µg/g	combined precision (±1sd) 46	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-24	Concentration of trace element Ni (µg/g) in surface sediments 	17	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-24	Concentration of trace element Pb (µg/g) in surface sediments 	8	µg/g	combined precision (±1sd) 0.4	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-24	Concentration of trace element V (µg/g) in surface sediments 	186	µg/g	combined precision (±1sd) 8	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-24	Concentration of trace element Zn (µg/g) in surface sediments 	92	µg/g	combined precision (±1sd) 6	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-26	Concentration of trace element Al (µg/g) in surface sediments	36735	µg/g	combined precision (±1sd) 2110	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-26	Concentration of trace element As (µg/g) in surface sediments	5	µg/g	combined precision (±1sd) 0.6	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-26	Concentration of trace element Cd (µg/g) in surface sediments	0.19	µg/g	combined precision (±1sd) 0.03	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-26	Concentration of trace elements Co (µg/g) in surface sediments 	28	µg/g	combined precision (±1sd) 2	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-26	Concentration of trace element Cr (µg/g) in surface sediments 	27	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-26	Concentration of trace element Cu (µg/g) in surface sediments	43	µg/g	combined precision (±1sd) 3	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-26	Concentration of trace element Fe (µg/g) in surface sediments 	41090	µg/g	combined precision (±1sd) 1694	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-26	Concentration of trace element Hg (µg/g) in surface sediments 	0.02	µg/g	combined precision (±1sd) 0.002	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-26	Concentration of trace element Mn (µg/g) in surface sediments 	1280	µg/g	combined precision (±1sd) 75	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-26	Concentration of trace element Ni (µg/g) in surface sediments 	16	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-26	Concentration of trace element Pb (µg/g) in surface sediments 	8	µg/g	combined precision (±1sd) 0.4	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-26	Concentration of trace element V (µg/g) in surface sediments 	274	µg/g	combined precision (±1sd) 11	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-26	Concentration of trace element Zn (µg/g) in surface sediments 	94	µg/g	combined precision (±1sd) 6	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-27	Concentration of trace element Al (µg/g) in surface sediments	43980	µg/g	combined precision (±1sd) 2526	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-27	Concentration of trace element As (µg/g) in surface sediments	8	µg/g	combined precision (±1sd) 0.9	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-27	Concentration of trace element Cd (µg/g) in surface sediments	0.24	µg/g	combined precision (±1sd) 0.04	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-27	Concentration of trace elements Co (µg/g) in surface sediments 	17	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-27	Concentration of trace element Cr (µg/g) in surface sediments 	26	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-27	Concentration of trace element Cu (µg/g) in surface sediments	64	µg/g	combined precision (±1sd) 5	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-27	Concentration of trace element Fe (µg/g) in surface sediments 	29476	µg/g	combined precision (±1sd) 1215	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-27	Concentration of trace element Hg (µg/g) in surface sediments 	0.034	µg/g	combined precision (±1sd) 0.004	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-27	Concentration of trace element Mn (µg/g) in surface sediments 	776	µg/g	combined precision (±1sd) 45	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-27	Concentration of trace element Ni (µg/g) in surface sediments 	13	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-27	Concentration of trace element Pb (µg/g) in surface sediments 	7	µg/g	combined precision (±1sd) 0.3	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-27	Concentration of trace element V (µg/g) in surface sediments 	183	µg/g	combined precision (±1sd) 8	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-27	Concentration of trace element Zn (µg/g) in surface sediments 	75	µg/g	combined precision (±1sd) 5	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-28	Concentration of trace element Al (µg/g) in surface sediments	45509	µg/g	combined precision (±1sd) 2614	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-28	Concentration of trace element As (µg/g) in surface sediments	11	µg/g	combined precision (±1sd) 1.3	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-28	Concentration of trace element Cd (µg/g) in surface sediments	0.25	µg/g	combined precision (±1sd) 0.04	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-28	Concentration of trace elements Co (µg/g) in surface sediments 	19	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-28	Concentration of trace element Cr (µg/g) in surface sediments 	39	µg/g	combined precision (±1sd) 2	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-28	Concentration of trace element Cu (µg/g) in surface sediments	66	µg/g	combined precision (±1sd) 5	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-28	Concentration of trace element Fe (µg/g) in surface sediments 	33752	µg/g	combined precision (±1sd) 1392	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-28	Concentration of trace element Hg (µg/g) in surface sediments 	0.025	µg/g	combined precision (±1sd) 0.003	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-28	Concentration of trace element Mn (µg/g) in surface sediments 	898	µg/g	combined precision (±1sd) 52	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-28	Concentration of trace element Ni (µg/g) in surface sediments 	17	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-28	Concentration of trace element Pb (µg/g) in surface sediments 	8	µg/g	combined precision (±1sd) 0.4	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-28	Concentration of trace element V (µg/g) in surface sediments 	209	µg/g	combined precision (±1sd) 9	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-28	Concentration of trace element Zn (µg/g) in surface sediments 	86	µg/g	combined precision (±1sd) 6	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-30	Concentration of trace element Al (µg/g) in surface sediments	37149	µg/g	combined precision (±1sd) 2134	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-30	Concentration of trace element As (µg/g) in surface sediments	4	µg/g	combined precision (±1sd) 0.5	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-30	Concentration of trace element Cd (µg/g) in surface sediments	0.19	µg/g	combined precision (±1sd) 0.03	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-30	Concentration of trace elements Co (µg/g) in surface sediments 	25	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-30	Concentration of trace element Cr (µg/g) in surface sediments 	24	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-30	Concentration of trace element Cu (µg/g) in surface sediments	38	µg/g	combined precision (±1sd) 3	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-30	Concentration of trace element Fe (µg/g) in surface sediments 	38788	µg/g	combined precision (±1sd) 1599	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-30	Concentration of trace element Hg (µg/g) in surface sediments 	0.016	µg/g	combined precision (±1sd) 0.002	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-30	Concentration of trace element Mn (µg/g) in surface sediments 	1158	µg/g	combined precision (±1sd) 68	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-30	Concentration of trace element Ni (µg/g) in surface sediments 	12	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-30	Concentration of trace element Pb (µg/g) in surface sediments 	7	µg/g	combined precision (±1sd) 0.3	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-30	Concentration of trace element V (µg/g) in surface sediments 	260	µg/g	combined precision (±1sd) 11	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-30	Concentration of trace element Zn (µg/g) in surface sediments 	88	µg/g	combined precision (±1sd) 6	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-31	Concentration of trace element Al (µg/g) in surface sediments	49019	µg/g	combined precision (±1sd) 2816	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-31	Concentration of trace element As (µg/g) in surface sediments	6	µg/g	combined precision (±1sd) 0.7	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-31	Concentration of trace element Cd (µg/g) in surface sediments	0.19	µg/g	combined precision (±1sd) 0.03	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-31	Concentration of trace elements Co (µg/g) in surface sediments 	20	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-31	Concentration of trace element Cr (µg/g) in surface sediments 	40	µg/g	combined precision (±1sd) 2	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-31	Concentration of trace element Cu (µg/g) in surface sediments	44	µg/g	combined precision (±1sd) 3	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-31	Concentration of trace element Fe (µg/g) in surface sediments 	36477	µg/g	combined precision (±1sd) 1504	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-31	Concentration of trace element Hg (µg/g) in surface sediments 	0.053	µg/g	combined precision (±1sd) 0.006	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-31	Concentration of trace element Mn (µg/g) in surface sediments 	1025	µg/g	combined precision (±1sd) 60	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-31	Concentration of trace element Ni (µg/g) in surface sediments 	19	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-31	Concentration of trace element Pb (µg/g) in surface sediments 	14	µg/g	combined precision (±1sd) 0.7	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-31	Concentration of trace element V (µg/g) in surface sediments 	220	µg/g	combined precision (±1sd) 9	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-31	Concentration of trace element Zn (µg/g) in surface sediments 	102	µg/g	combined precision (±1sd) 7	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RAUSCHERT 3	Concentration of trace element Al (µg/g) in surface sediments	47620	µg/g	combined precision (±1sd) 2736	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RAUSCHERT 3	Concentration of trace element As (µg/g) in surface sediments	5	µg/g	combined precision (±1sd) 0.6	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RAUSCHERT 3	Concentration of trace element Cd (µg/g) in surface sediments	0.23	µg/g	combined precision (±1sd) 0.04	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RAUSCHERT 3	Concentration of trace elements Co (µg/g) in surface sediments 	19	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RAUSCHERT 3	Concentration of trace element Cr (µg/g) in surface sediments 	46	µg/g	combined precision (±1sd) 2	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RAUSCHERT 3	Concentration of trace element Cu (µg/g) in surface sediments	52	µg/g	combined precision (±1sd) 4	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RAUSCHERT 3	Concentration of trace element Fe (µg/g) in surface sediments 	31657	µg/g	combined precision (±1sd) 1305	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RAUSCHERT 3	Concentration of trace element Hg (µg/g) in surface sediments 	0.025	µg/g	combined precision (±1sd) 0.003	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RAUSCHERT 3	Concentration of trace element Mn (µg/g) in surface sediments 	911	µg/g	combined precision (±1sd) 53	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RAUSCHERT 3	Concentration of trace element Ni (µg/g) in surface sediments 	19	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RAUSCHERT 3	Concentration of trace element Pb (µg/g) in surface sediments 	8	µg/g	combined precision (±1sd) 0.4	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RAUSCHERT 3	Concentration of trace element V (µg/g) in surface sediments 	206	µg/g	combined precision (±1sd) 8	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RAUSCHERT 3	Concentration of trace element Zn (µg/g) in surface sediments 	83	µg/g	combined precision (±1sd) 6	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RD2	Concentration of trace element Al (µg/g) in surface sediments	32094	µg/g	combined precision (±1sd) 1844	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RD2	Concentration of trace element As (µg/g) in surface sediments	9	µg/g	combined precision (±1sd) 1.1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RD2	Concentration of trace element Cd (µg/g) in surface sediments	0.25	µg/g	combined precision (±1sd) 0.04	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RD2	Concentration of trace elements Co (µg/g) in surface sediments 	23	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RD2	Concentration of trace element Cr (µg/g) in surface sediments 	28	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RD2	Concentration of trace element Cu (µg/g) in surface sediments	29	µg/g	combined precision (±1sd) 2	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RD2	Concentration of trace element Fe (µg/g) in surface sediments 	31301	µg/g	combined precision (±1sd) 1291	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RD2	Concentration of trace element Hg (µg/g) in surface sediments 	0.075	µg/g	combined precision (±1sd) 0.009	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RD2	Concentration of trace element Mn (µg/g) in surface sediments 	989	µg/g	combined precision (±1sd) 58	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RD2	Concentration of trace element Ni (µg/g) in surface sediments 	14	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RD2	Concentration of trace element Pb (µg/g) in surface sediments 	6	µg/g	combined precision (±1sd) 0.3	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RD2	Concentration of trace element V (µg/g) in surface sediments 	218	µg/g	combined precision (±1sd) 9	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RD2	Concentration of trace element Zn (µg/g) in surface sediments 	73	µg/g	combined precision (±1sd) 5	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RD6	Concentration of trace element Al (µg/g) in surface sediments	38191	µg/g	combined precision (±1sd) 2194	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RD6	Concentration of trace element As (µg/g) in surface sediments	4	µg/g	combined precision (±1sd) 0.5	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RD6	Concentration of trace element Cd (µg/g) in surface sediments	0.23	µg/g	combined precision (±1sd) 0.04	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RD6	Concentration of trace elements Co (µg/g) in surface sediments 	22	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RD6	Concentration of trace element Cr (µg/g) in surface sediments 	34	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RD6	Concentration of trace element Cu (µg/g) in surface sediments	46	µg/g	combined precision (±1sd) 3	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RD6	Concentration of trace element Fe (µg/g) in surface sediments 	39229	µg/g	combined precision (±1sd) 1617	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RD6	Concentration of trace element Hg (µg/g) in surface sediments 	0.034	µg/g	combined precision (±1sd) 0.004	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RD6	Concentration of trace element Mn (µg/g) in surface sediments 	1146	µg/g	combined precision (±1sd) 67	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RD6	Concentration of trace element Ni (µg/g) in surface sediments 	16	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RD6	Concentration of trace element Pb (µg/g) in surface sediments 	7	µg/g	combined precision (±1sd) 0.3	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RD6	Concentration of trace element V (µg/g) in surface sediments 	218	µg/g	combined precision (±1sd) 9	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RD6	Concentration of trace element Zn (µg/g) in surface sediments 	101	µg/g	combined precision (±1sd) 7	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RD7	Concentration of trace element Al (µg/g) in surface sediments	45891	µg/g	combined precision (±1sd) 2636	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RD7	Concentration of trace element As (µg/g) in surface sediments	6	µg/g	combined precision (±1sd) 0.7	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RD7	Concentration of trace element Cd (µg/g) in surface sediments	0.2	µg/g	combined precision (±1sd) 0.03	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RD7	Concentration of trace elements Co (µg/g) in surface sediments 	16	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RD7	Concentration of trace element Cr (µg/g) in surface sediments 	43	µg/g	combined precision (±1sd) 2	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RD7	Concentration of trace element Cu (µg/g) in surface sediments	46	µg/g	combined precision (±1sd) 3	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RD7	Concentration of trace element Fe (µg/g) in surface sediments 	31322	µg/g	combined precision (±1sd) 1291	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RD7	Concentration of trace element Hg (µg/g) in surface sediments 	0.074	µg/g	combined precision (±1sd) 0.009	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RD7	Concentration of trace element Mn (µg/g) in surface sediments 	795	µg/g	combined precision (±1sd) 46	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RD7	Concentration of trace element Ni (µg/g) in surface sediments 	19	µg/g	combined precision (±1sd) 1	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RD7	Concentration of trace element Pb (µg/g) in surface sediments 	10	µg/g	combined precision (±1sd) 0.5	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RD7	Concentration of trace element V (µg/g) in surface sediments 	181	µg/g	combined precision (±1sd) 7	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-RD7	Concentration of trace element Zn (µg/g) in surface sediments 	97	µg/g	combined precision (±1sd) 6	https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-02	Concentration of trace element As	6	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-02	Concentration of trace element Ca	10197	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-02	Concentration of trace element Co	10	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-02	Concentration of trace element Cr	23	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-02	Concentration of trace element Fe	23418	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-02	Concentration of trace element Mo	29	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-02	Concentration of trace element Mn	316	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-02	Concentration of trace element Nb	6	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-02	Concentration of trace element Ni	10	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-02	Concentration of trace element Pb	8	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-02	Concentration of trace element Rb	62	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-02	Concentration of trace element Sb	5	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-02	Concentration of trace element Sn	2	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-02	Concentration of trace element Sr	238	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-02	Concentration of trace element Th	6	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-02	Concentration of trace element Ti	2249	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-02	Concentration of trace element Y	23	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-02	Concentration of trace element Zn	85	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-02	Concentration of trace element Zr	122	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-03	Concentration of trace element As	7	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-03	Concentration of trace element Ca	10737	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-03	Concentration of trace element Co	8	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-03	Concentration of trace element Cr	13	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-03	Concentration of trace element Cu	2	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-03	Concentration of trace element Fe	20671	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-03	Concentration of trace element Mo	34	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-03	Concentration of trace element Mn	306	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-03	Concentration of trace element Nb	6	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-03	Concentration of trace element Ni	9	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-03	Concentration of trace element Pb	8	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-03	Concentration of trace element Rb	60	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-03	Concentration of trace element Sb	6	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-03	Concentration of trace element Sn	3	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-03	Concentration of trace element Sr	246	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-03	Concentration of trace element Th	6	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-03	Concentration of trace element Ti	2413	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-03	Concentration of trace element Y	18	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-03	Concentration of trace element Zn	105	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-03	Concentration of trace element Zr	129	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-04	Concentration of trace element As	6	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-04	Concentration of trace element Ca	9944	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-04	Concentration of trace element Co	13	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-04	Concentration of trace element Cr	23	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-04	Concentration of trace element Fe	26711	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-04	Concentration of trace element Mo	34	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-04	Concentration of trace element Mn	343	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-04	Concentration of trace element Nb	5	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-04	Concentration of trace element Ni	16	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-04	Concentration of trace element Pb	9	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-04	Concentration of trace element Rb	56	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-04	Concentration of trace element Sb	5	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-04	Concentration of trace element Sn	2	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-04	Concentration of trace element Sr	209	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-04	Concentration of trace element Th	5	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-04	Concentration of trace element Ti	2675	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-04	Concentration of trace element Y	22	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-04	Concentration of trace element Zn	87	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-04	Concentration of trace element Zr	108	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-05	Concentration of trace element As	6	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-05	Concentration of trace element Ca	9825	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-05	Concentration of trace element Co	10	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-05	Concentration of trace element Cr	24	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-05	Concentration of trace element Fe	24693	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-05	Concentration of trace element Mo	29	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-05	Concentration of trace element Mn	329	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-05	Concentration of trace element Nb	5	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-05	Concentration of trace element Ni	12	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-05	Concentration of trace element Pb	8	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-05	Concentration of trace element Rb	65	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-05	Concentration of trace element Sb	7	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-05	Concentration of trace element Sn	3	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-05	Concentration of trace element Sr	216	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-05	Concentration of trace element Th	6	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-05	Concentration of trace element Ti	2369	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-05	Concentration of trace element Y	21	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-05	Concentration of trace element Zn	83	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-05	Concentration of trace element Zr	86	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-06	Concentration of trace element As	7	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-06	Concentration of trace element Ca	13123	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-06	Concentration of trace element Co	15	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-06	Concentration of trace element Cr	8	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-06	Concentration of trace element Cu	28	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-06	Concentration of trace element Fe	34048	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-06	Concentration of trace element Mo	32	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-06	Concentration of trace element Mn	520	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-06	Concentration of trace element Nb	4	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-06	Concentration of trace element Ni	4	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-06	Concentration of trace element Pb	9	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-06	Concentration of trace element Rb	37	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-06	Concentration of trace element Sb	5	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-06	Concentration of trace element Sn	2	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-06	Concentration of trace element Sr	226	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-06	Concentration of trace element Th	4	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-06	Concentration of trace element Ti	2678	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-06	Concentration of trace element Y	24	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-06	Concentration of trace element Zn	109	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-06	Concentration of trace element Zr	82	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-07	Concentration of trace element As	6	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-07	Concentration of trace element Ca	13825	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-07	Concentration of trace element Co	13	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-07	Concentration of trace element Cr	17	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-07	Concentration of trace element Cu	25	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-07	Concentration of trace element Fe	33294	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-07	Concentration of trace element Mo	36	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-07	Concentration of trace element Mn	508	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-07	Concentration of trace element Nb	4	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-07	Concentration of trace element Ni	3	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-07	Concentration of trace element Pb	9	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-07	Concentration of trace element Rb	30	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-07	Concentration of trace element Sb	5	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-07	Concentration of trace element Sn	2	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-07	Concentration of trace element Sr	294	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-07	Concentration of trace element Th	4	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-07	Concentration of trace element Ti	2845	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-07	Concentration of trace element Y	22	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-07	Concentration of trace element Zn	103	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-07	Concentration of trace element Zr	72	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-08	Concentration of trace element As	7	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-08	Concentration of trace element Ca	15389	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-08	Concentration of trace element Co	14	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-08	Concentration of trace element Cr	19	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-08	Concentration of trace element Cu	21	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-08	Concentration of trace element Fe	35402	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-08	Concentration of trace element Mo	34	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-08	Concentration of trace element Mn	512	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-08	Concentration of trace element Nb	4	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-08	Concentration of trace element Ni	6	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-08	Concentration of trace element Pb	9	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-08	Concentration of trace element Rb	30	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-08	Concentration of trace element Sb	5	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-08	Concentration of trace element Sn	2	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-08	Concentration of trace element Sr	234	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-08	Concentration of trace element Th	4	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-08	Concentration of trace element Ti	3211	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-08	Concentration of trace element Y	25	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-08	Concentration of trace element Zn	91	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-08	Concentration of trace element Zr	71	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-09	Concentration of trace element As	7	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-09	Concentration of trace element Ca	12617	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-09	Concentration of trace element Co	23	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-09	Concentration of trace element Cr	7	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-09	Concentration of trace element Cu	27	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-09	Concentration of trace element Fe	37124	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-09	Concentration of trace element Mo	42	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-09	Concentration of trace element Mn	501	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-09	Concentration of trace element Nb	3	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-09	Concentration of trace element Pb	8	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-09	Concentration of trace element Rb	30	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-09	Concentration of trace element Sb	5	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-09	Concentration of trace element Sn	2	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-09	Concentration of trace element Sr	205	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-09	Concentration of trace element Th	3	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-09	Concentration of trace element Ti	2792	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-09	Concentration of trace element Y	24	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-09	Concentration of trace element Zn	110	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-09	Concentration of trace element Zr	65	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-10	Concentration of trace element As	7	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-10	Concentration of trace element Ca	11081	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-10	Concentration of trace element Co	15	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-10	Concentration of trace element Cr	15	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-10	Concentration of trace element Cu	25	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-10	Concentration of trace element Fe	32752	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-10	Concentration of trace element Mo	46	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-10	Concentration of trace element Mn	462	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-10	Concentration of trace element Nb	3	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-10	Concentration of trace element Ni	5	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-10	Concentration of trace element Pb	8	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-10	Concentration of trace element Rb	29	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-10	Concentration of trace element Sb	5	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-10	Concentration of trace element Sn	2	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-10	Concentration of trace element Sr	175	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-10	Concentration of trace element Th	4	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-10	Concentration of trace element Ti	2610	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-10	Concentration of trace element Y	23	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-10	Concentration of trace element Zn	97	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-10	Concentration of trace element Zr	59	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-15	Concentration of trace element As	8	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-15	Concentration of trace element Ca	19130	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-15	Concentration of trace element Co	19	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-15	Concentration of trace element Cr	11	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-15	Concentration of trace element Cu	13	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-15	Concentration of trace element Fe	38886	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-15	Concentration of trace element Mo	25	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-15	Concentration of trace element Mn	636	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-15	Concentration of trace element Nb	4	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-15	Concentration of trace element Ni	9	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-15	Concentration of trace element Pb	8	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-15	Concentration of trace element Rb	25	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-15	Concentration of trace element Sb	5	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-15	Concentration of trace element Sn	2	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-15	Concentration of trace element Sr	218	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-15	Concentration of trace element Th	3	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-15	Concentration of trace element Ti	3655	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-15	Concentration of trace element Y	28	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-15	Concentration of trace element Zn	132	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-15	Concentration of trace element Zr	90	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-18	Concentration of trace element As	7	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-18	Concentration of trace element Ca	13972	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-18	Concentration of trace element Co	16	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-18	Concentration of trace element Cu	6	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-18	Concentration of trace element Fe	36172	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-18	Concentration of trace element Mo	34	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-18	Concentration of trace element Mn	555	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-18	Concentration of trace element Nb	4	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-18	Concentration of trace element Ni	6	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-18	Concentration of trace element Pb	8	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-18	Concentration of trace element Rb	20	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-18	Concentration of trace element Sb	7	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-18	Concentration of trace element Sn	3	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-18	Concentration of trace element Sr	218	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-18	Concentration of trace element Th	3	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-18	Concentration of trace element Ti	3192	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-18	Concentration of trace element Y	24	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-18	Concentration of trace element Zn	110	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-18	Concentration of trace element Zr	73	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-20	Concentration of trace element As	9	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-20	Concentration of trace element Ca	16086	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-20	Concentration of trace element Co	13	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-20	Concentration of trace element Cu	5	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-20	Concentration of trace element Fe	28571	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-20	Concentration of trace element Mo	27	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-20	Concentration of trace element Mn	798	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-20	Concentration of trace element Nb	2	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-20	Concentration of trace element Ni	2	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-20	Concentration of trace element Pb	14	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-20	Concentration of trace element Rb	21	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-20	Concentration of trace element Sb	6	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-20	Concentration of trace element Sn	3	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-20	Concentration of trace element Sr	263	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-20	Concentration of trace element Th	3	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-20	Concentration of trace element Ti	2937	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-20	Concentration of trace element Y	25	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-20	Concentration of trace element Zn	106	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-20	Concentration of trace element Zr	79	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-21	Concentration of trace element As	7	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-21	Concentration of trace element Ca	15583	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-21	Concentration of trace element Co	17	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-21	Concentration of trace element Cr	8	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-21	Concentration of trace element Cu	12	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-21	Concentration of trace element Fe	38238	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-21	Concentration of trace element Mo	32	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-21	Concentration of trace element Mn	566	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-21	Concentration of trace element Nb	3	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-21	Concentration of trace element Ni	7	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-21	Concentration of trace element Pb	8	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-21	Concentration of trace element Rb	22	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-21	Concentration of trace element Sb	6	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-21	Concentration of trace element Sn	3	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-21	Concentration of trace element Sr	228	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-21	Concentration of trace element Th	3	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-21	Concentration of trace element Ti	3413	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-21	Concentration of trace element Y	25	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-21	Concentration of trace element Zn	113	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-21	Concentration of trace element Zr	75	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-23	Concentration of trace element As	7	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-23	Concentration of trace element Ca	8778	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-23	Concentration of trace element Co	10	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-23	Concentration of trace element Cr	5	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-23	Concentration of trace element Fe	24809	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-23	Concentration of trace element Mo	47	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-23	Concentration of trace element Mn	332	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-23	Concentration of trace element Nb	4	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-23	Concentration of trace element Ni	3	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-23	Concentration of trace element Pb	8	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-23	Concentration of trace element Rb	34	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-23	Concentration of trace element Sb	5	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-23	Concentration of trace element Sn	3	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-23	Concentration of trace element Sr	125	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-23	Concentration of trace element Th	4	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-23	Concentration of trace element Ti	2363	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-23	Concentration of trace element Y	25	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-23	Concentration of trace element Zn	101	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-23	Concentration of trace element Zr	72	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-24	Concentration of trace element As	8	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-24	Concentration of trace element Ca	15753	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-24	Concentration of trace element Co	18	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-24	Concentration of trace element Cu	13	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-24	Concentration of trace element Fe	39316	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-24	Concentration of trace element Mo	25	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-24	Concentration of trace element Mn	531	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-24	Concentration of trace element Nb	4	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-24	Concentration of trace element Ni	3	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-24	Concentration of trace element Pb	8	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-24	Concentration of trace element Rb	21	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-24	Concentration of trace element Sb	5	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-24	Concentration of trace element Sn	2	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-24	Concentration of trace element Sr	215	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-24	Concentration of trace element Th	3	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-24	Concentration of trace element Ti	4205	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-24	Concentration of trace element Y	28	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-24	Concentration of trace element Zn	133	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-24	Concentration of trace element Zr	97	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-25	Concentration of trace element As	8	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-25	Concentration of trace element Ca	17584	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-25	Concentration of trace element Co	22	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-25	Concentration of trace element Cu	13	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-25	Concentration of trace element Fe	40116	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-25	Concentration of trace element Mo	38	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-25	Concentration of trace element Mn	596	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-25	Concentration of trace element Nb	3	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-25	Concentration of trace element Pb	8	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-25	Concentration of trace element Rb	17	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-25	Concentration of trace element Sb	6	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-25	Concentration of trace element Sn	3	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-25	Concentration of trace element Sr	215	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-25	Concentration of trace element Th	3	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-25	Concentration of trace element Ti	4174	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-25	Concentration of trace element Y	27	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-25	Concentration of trace element Zn	115	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-25	Concentration of trace element Zr	94	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-26	Concentration of trace element As	7	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-26	Concentration of trace element Ca	9045	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-26	Concentration of trace element Co	11	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-26	Concentration of trace element Cr	5	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-26	Concentration of trace element Cu	4	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-26	Concentration of trace element Fe	27113	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-26	Concentration of trace element Mo	49	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-26	Concentration of trace element Mn	350	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-26	Concentration of trace element Nb	4	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-26	Concentration of trace element Ni	1	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-26	Concentration of trace element Pb	9	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-26	Concentration of trace element Rb	32	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-26	Concentration of trace element Sb	6	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-26	Concentration of trace element Sn	3	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-26	Concentration of trace element Sr	129	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-26	Concentration of trace element Th	4	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-26	Concentration of trace element Ti	2485	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-26	Concentration of trace element Y	23	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-26	Concentration of trace element Zn	90	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-26	Concentration of trace element Zr	70	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-27	Concentration of trace element As	8	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-27	Concentration of trace element Ca	18881	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-27	Concentration of trace element Co	21	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-27	Concentration of trace element Cu	16	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-27	Concentration of trace element Fe	41914	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-27	Concentration of trace element Mo	29	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-27	Concentration of trace element Mn	612	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-27	Concentration of trace element Nb	3	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-27	Concentration of trace element Pb	7	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-27	Concentration of trace element Rb	18	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-27	Concentration of trace element Sb	5	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-27	Concentration of trace element Sn	3	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-27	Concentration of trace element Sr	226	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-27	Concentration of trace element Th	3	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-27	Concentration of trace element Ti	4406	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-27	Concentration of trace element Y	28	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-27	Concentration of trace element Zn	127	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-27	Concentration of trace element Zr	100	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-28	Concentration of trace element As	8	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-28	Concentration of trace element Ca	15775	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-28	Concentration of trace element Co	17	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-28	Concentration of trace element Cu	16	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-28	Concentration of trace element Fe	38208	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-28	Concentration of trace element Mo	30	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-28	Concentration of trace element Mn	539	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-28	Concentration of trace element Nb	4	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-28	Concentration of trace element Ni	3	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-28	Concentration of trace element Pb	8	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-28	Concentration of trace element Rb	21	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-28	Concentration of trace element Sb	5	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-28	Concentration of trace element Sn	3	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-28	Concentration of trace element Sr	210	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-28	Concentration of trace element Th	3	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-28	Concentration of trace element Ti	4067	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-28	Concentration of trace element Y	27	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-28	Concentration of trace element Zn	121	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-28	Concentration of trace element Zr	98	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-29	Concentration of trace element As	9	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-29	Concentration of trace element Ca	11892	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-29	Concentration of trace element Co	23	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-29	Concentration of trace element Cr	42	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-29	Concentration of trace element Cu	41	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-29	Concentration of trace element Fe	38645	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-29	Concentration of trace element Mo	23	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-29	Concentration of trace element Mn	549	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-29	Concentration of trace element Nb	9	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-29	Concentration of trace element Ni	14	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-29	Concentration of trace element Pb	7	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-29	Concentration of trace element Rb	31	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-29	Concentration of trace element Sb	6	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-29	Concentration of trace element Sn	2	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-29	Concentration of trace element Sr	257	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-29	Concentration of trace element Th	5	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-29	Concentration of trace element Ti	2872	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-29	Concentration of trace element Y	33	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-29	Concentration of trace element Zn	159	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-29	Concentration of trace element Zr	131	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-30	Concentration of trace element As	8	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-30	Concentration of trace element Ca	10823	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-30	Concentration of trace element Co	18	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-30	Concentration of trace element Cr	4	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-30	Concentration of trace element Cu	7	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-30	Concentration of trace element Fe	35715	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-30	Concentration of trace element Mo	30	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-30	Concentration of trace element Mn	499	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-30	Concentration of trace element Nb	3	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-30	Concentration of trace element Ni	5	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-30	Concentration of trace element Pb	8	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-30	Concentration of trace element Rb	23	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-30	Concentration of trace element Sb	6	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-30	Concentration of trace element Sn	3	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-30	Concentration of trace element Sr	198	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-30	Concentration of trace element Th	3	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-30	Concentration of trace element Ti	2946	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-30	Concentration of trace element Y	28	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-30	Concentration of trace element Zn	117	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501
+GANT20-30	Concentration of trace element Zr	90	µg/g		https://doi.org/10.1016/j.marpolbul.2022.114501

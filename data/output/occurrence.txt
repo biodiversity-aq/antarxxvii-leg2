@@ -1,0 +1,45 @@
+occurrenceID	institutionCode	scientificName	scientificNameID	vernacularName	kingdom	organismID	Body part	dynamicProperties	eventID	verbatimEventDate	preparations	occurrenceRemarks
+GANT20_2	RBINS	Malacostraca	urn:lsid:marinespecies.org:taxname:1071	amphipods	Animalia				GANT20-01	2/2/2020	at -20 + ethanol 99%	
+GANT20_5	VUB	Aequiyoldia eightsii	urn:lsid:marinespecies.org:taxname:868255		Animalia				GANT20-02	2/3/2020	-20	5 yoldias without shells, shells in ziploc bag same label
+GANT20_9	RBINS	Malacostraca	urn:lsid:marinespecies.org:taxname:1071	amphipods	Animalia				GANT20-02	2/3/2020	at -20 + ethanol 99%	
+GANT20_11	VUB	Aequiyoldia eightsii	urn:lsid:marinespecies.org:taxname:868255		Animalia				GANT20-03	2/3/2020	-20	5 yoldias without shells
+GANT20_23	RBINS	Malacostraca	urn:lsid:marinespecies.org:taxname:1071	amphipods	Animalia				GANT20-06	2/5/2020	at -20 + ethanol 99%	
+GANT20_39	VUB	Aequiyoldia eightsii	urn:lsid:marinespecies.org:taxname:868255		Animalia				GANT20-11	2/11/2020	-20	5 yoldias without shells
+GANT20_40	UGENT	Aequiyoldia eightsii	urn:lsid:marinespecies.org:taxname:868255		Animalia				GANT20-11	2/11/2020	-20	12 yoldias with shells
+GANT20_42	VUB	Ophiuroidea	urn:lsid:marinespecies.org:taxname:123084	brittle star	Animalia	1	Disk	"{""body part"": ""Disk""}"	GANT20-11	2/11/2020	at -20 + ethanol 99%	
+GANT20_43	VUB	Ophiuroidea	urn:lsid:marinespecies.org:taxname:123084	brittle star	Animalia	2	Disk	"{""body part"": ""Disk""}"	GANT20-11	2/11/2020	-20	
+GANT20_44	VUB	Ophiuroidea	urn:lsid:marinespecies.org:taxname:123084	brittle star	Animalia	1	Arm	"{""body part"": ""Arm""}"	GANT20-11	2/11/2020	at -20 + ethanol 99%	
+GANT20_45	VUB	Ophiuroidea	urn:lsid:marinespecies.org:taxname:123084	brittle star	Animalia	2	Arm	"{""body part"": ""Arm""}"	GANT20-11	2/11/2020	-20	
+GANT20_46	VUB	Malacostraca	urn:lsid:marinespecies.org:taxname:1071	amphipods	Animalia				GANT20-13	2/14/2020	-20	change into RBINS-IS - lost?
+GANT20_65	VUB	Ophiuroidea	urn:lsid:marinespecies.org:taxname:123084	brittle star	Animalia	1	Arm	"{""body part"": ""Arm""}"	GANT20-22	2/18/2020	at -20 + ethanol 99%	
+GANT20_66	KUL	Chordata	urn:lsid:marinespecies.org:taxname:1821		Animalia				GANT20-RD2	2/18/2020	-20	Rock dredge
+GANT20_68	VUB	Asteroidea	urn:lsid:marinespecies.org:taxname:123080	sea star	Animalia	1			GANT20-RD2	2/18/2020	-20	Rock dredge
+GANT20_69	VUB	Asteroidea	urn:lsid:marinespecies.org:taxname:123080	sea star	Animalia	2			GANT20-RD2	2/18/2020	-20	Rock dredge
+GANT20_80	VUB	Ophiuroidea	urn:lsid:marinespecies.org:taxname:123084	brittle star	Animalia	1	Whole	"{""body part"": ""Whole""}"	GANT20-29	2/21/2020	at -20 + ethanol 70%	
+GANT20_81	VUB	Ophiuroidea	urn:lsid:marinespecies.org:taxname:123084	brittle star	Animalia	1	Arm	"{""body part"": ""Arm""}"	GANT20-29	2/21/2020	at -20 + ethanol 99%	
+GANT20_82	RBINS	Malacostraca	urn:lsid:marinespecies.org:taxname:1071	amphipods	Animalia				GANT20-29	2/21/2020	at -20 + ethanol 99%	
+GANT20_84	VUB	Ophiuroidea	urn:lsid:marinespecies.org:taxname:123084	brittle star	Animalia	1	Whole	"{""body part"": ""Whole""}"	GANT20-30	2/21/2020	at -20 + ethanol 99%	
+GANT20_85	VUB	Ophiuroidea	urn:lsid:marinespecies.org:taxname:123084	brittle star	Animalia	1	Arm	"{""body part"": ""Arm""}"	GANT20-30	2/21/2020	at -20 + ethanol 99%	
+GANT20_86	VUB	Ophiuroidea	urn:lsid:marinespecies.org:taxname:123084	brittle star	Animalia	2	Rest	"{""body part"": ""Rest""}"	GANT20-30	2/21/2020	at -20 + ethanol 99%	
+GANT20_88	VUB	Ophiuroidea	urn:lsid:marinespecies.org:taxname:123084	brittle star	Animalia	1	Arm	"{""body part"": ""Arm""}"	GANT20-RD3	2/23/2020	at -20 + ethanol 99%	
+GANT20_89	VUB	Ophiuroidea	urn:lsid:marinespecies.org:taxname:123084	brittle star	Animalia	1	Disk	"{""body part"": ""Disk""}"	GANT20-RD3	2/23/2020	at -20 + ethanol 99%	
+GANT20_90	VUB	Ophiuroidea	urn:lsid:marinespecies.org:taxname:123084	brittle star	Animalia		Rest	"{""body part"": ""Rest""}"	GANT20-RD3	2/23/2020	ethanol 95%	
+GANT20_91	VUB	Ophiuroidea	urn:lsid:marinespecies.org:taxname:123084	brittle star	Animalia	2	Whole	"{""body part"": ""Whole""}"	GANT20-RD6	2/25/2020	Ethanol 95%	
+GANT20_93	VUB	Ophiuroidea	urn:lsid:marinespecies.org:taxname:123084	brittle star	Animalia	1	Whole	"{""body part"": ""Whole""}"	GANT20-RD6	2/25/2020	Ethanol 95%	
+GANT20_94	VUB	Ophiuroidea	urn:lsid:marinespecies.org:taxname:123084	brittle star	Animalia	3	Whole	"{""body part"": ""Whole""}"	GANT20-RD6	2/25/2020	Ethanol 95%	
+GANT20_95	VUB	Ophiuroidea	urn:lsid:marinespecies.org:taxname:123084	brittle star	Animalia	4	Whole	"{""body part"": ""Whole""}"	GANT20-RD6	2/25/2020	Ethanol 95%	
+GANT20_96	VUB	Ophiuroidea	urn:lsid:marinespecies.org:taxname:123084	brittle star	Animalia	4bis	Whole	"{""body part"": ""Whole""}"	GANT20-RD6	2/25/2020	Ethanol 95%	We named one organism 4bis instead of 5 because we had a mistake in the labelling, so it should be a fifth organism but due to labelling error, it is written 4bis on the bottle.
+GANT20_97	VUB	Asteroidea	urn:lsid:marinespecies.org:taxname:123080	sea star	Animalia	1			GANT20-RD6	2/25/2020	-20	
+GANT20_102	RBINS	Ostracoda	urn:lsid:marinespecies.org:taxname:1078	ostracods	Animalia				GANT20-RAUSCHERT 1	2/26/2020	at -20 + ethanol 99%	Ostracods
+GANT20_135	KUL	Chordata	urn:lsid:marinespecies.org:taxname:1821	Fish	Animalia	1			GANT20-RAUSCHERT 2	2/26/2020	Frozen	1x fish
+GANT20_136	KUL	Chordata	urn:lsid:marinespecies.org:taxname:1821	Fish	Animalia	2			GANT20-RAUSCHERT 2	2/26/2020	Frozen	2x fish
+GANT20_137	VUB	Ophiuroidea	urn:lsid:marinespecies.org:taxname:123084	brittle star	Animalia	1	Arm	"{""body part"": ""Arm""}"	GANT20-RAUSCHERT 3	2/26/2020	Ethanol 99% + frozen	
+GANT20_138	VUB	Ophiuroidea	urn:lsid:marinespecies.org:taxname:123084	brittle star	Animalia	1	Whole	"{""body part"": ""Whole""}"	GANT20-RAUSCHERT 3	2/26/2020	Ethanol 99% + frozen	
+GANT20_139	VUB	Ophiuroidea	urn:lsid:marinespecies.org:taxname:123084	brittle star	Animalia	2	Arm	"{""body part"": ""Arm""}"	GANT20-RAUSCHERT 3	2/26/2020	Ethanol 99% + frozen	
+GANT20_140	VUB	Ophiuroidea	urn:lsid:marinespecies.org:taxname:123084	brittle star	Animalia	2	Whole	"{""body part"": ""Whole""}"	GANT20-RAUSCHERT 3	2/26/2020	Ethanol 99% + frozen	
+GANT20_141	RECTO	Crustacea	urn:lsid:marinespecies.org:taxname:1066	Crustaceans	Animalia	1			GANT20-RAUSCHERT 3	2/26/2020	Ethanol 99% + frozen	
+GANT20_142	RECTO	Crustacea	urn:lsid:marinespecies.org:taxname:1066	Crustaceans	Animalia	2			GANT20-RAUSCHERT 3	2/26/2020	Ethanol 99% + frozen	
+GANT20_143	RECTO	Crustacea	urn:lsid:marinespecies.org:taxname:1066	Crustaceans	Animalia	3			GANT20-RAUSCHERT 3	2/26/2020	Ethanol 99% + frozen	
+GANT20_144	RECTO	Crustacea	urn:lsid:marinespecies.org:taxname:1066	Crustaceans	Animalia	4			GANT20-RAUSCHERT 3	2/26/2020	Ethanol 99% + frozen	
+GANT20_145	RECTO	Crustacea	urn:lsid:marinespecies.org:taxname:1066	Crustaceans	Animalia	5			GANT20-RAUSCHERT 3	2/26/2020	Ethanol 99% + frozen	
+GANT20_146	RECTO	Crustacea	urn:lsid:marinespecies.org:taxname:1066	Crustaceans	Animalia	6			GANT20-RAUSCHERT 3	2/26/2020	Ethanol 99% + frozen	
